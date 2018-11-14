@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\caoimhe\documents\graphics\modellab\main.cpp(396): warning C4305: 'argument': truncation from 'double' to 'float'
+  modelLab.vcxproj -> C:\Users\Caoimhe\Documents\graphics\modelLab\Debug\modelLab.exe
